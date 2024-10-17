@@ -1,4 +1,4 @@
-# Shops Sales Analysis Dashboard
+# Store Sales Analysis Dashboard
 This repository contains a comprehensive Power BI dashboard for analyzing shop sales performance. Key features include:
 
 Total Sales: $411.56M
